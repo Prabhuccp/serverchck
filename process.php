@@ -3,7 +3,7 @@
 $host = "customers.czptxhzjxjrt.us-east-1.rds.amazonaws.com"; // Replace with your database host
 $username = "admin"; // Replace with your database username
 $password = "Jcricket963.$"; // Replace with your database password
-$dbname = "customerdet"; // Replace with your database name
+$dbname = "Customerdet"; // Replace with your database name
 
 // Create a database connection
 $conn = new mysqli($host, $username, $password, $dbname);
